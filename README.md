@@ -1,5 +1,7 @@
-# project-dicoding-data-analysis
+# project-dicoding-data-analysis - Dicoding
 Project Dicoding "Belajar Data Analisis dengan Python"  dengan dataset E-Commerce
+
+![Project Dicoding "Belajar Data Analisis dengan Python"](thumbnail.mp4)
 
 ## Daftar Isi
 - [Gambaran Umum](#Gambaran-Umum)
