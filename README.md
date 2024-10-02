@@ -1,6 +1,8 @@
 # project-dicoding-data-analysis - Dicoding
 Project Dicoding "Belajar Data Analisis dengan Python"  dengan dataset E-Commerce
 
+[Tampilan Aplikasi Projek ini ](https://project-dicoding-data-analysis-abdul-aziz.streamlit.app/)
+
 ![Project Dicoding "Belajar Data Analisis dengan Python"](thumbnail.mp4)
 
 ## Daftar Isi
